@@ -5,9 +5,9 @@ El código será capaz de detectar los hosts disponibles y además identificar s
 # Forma de ejecución
 ```
 1- chmod +x host_discovery.sh
-2- ./host_discovery.sh -i 127.0.0.
+2- ./host_discovery.sh -i 10.10.0.0.
 
-Si tu IP es 10.10.0.130 debes ejecutar el script de la siguiente manera. ./host_discovery.sh -i 10.10.0.
+Si tu IP es 10.10.0.130 debes ejecutar el script de la siguiente manera: ./host_discovery.sh -i 10.10.0.
 ```
 
 # Diccionario de comandos
